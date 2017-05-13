@@ -9,9 +9,10 @@ Pre-requisites
 * 1.1. Install docker
 [https://docs.docker.com/engine/installation/]
 
-* Install Docker compose
+* 1.2 Install Docker compose
 [https://docs.docker.com/compose/install/]
 
+* 1.3 Explore
 - Explore pre-made docker containers [https://hub.docker.com/explore/]
 - Get acquainted with the docker most commonly used commands: _ps_, _exec_, _kill_, etc. 
 
